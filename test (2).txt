@@ -1,0 +1,677 @@
+/* Generics */
+#titre, .titre {
+	font-size: 140%;
+	padding-bottom: 4px;
+}
+table.spip_barre {
+	display: none;
+	margin: 0;
+	padding: 0;
+	line-height: 0px
+}
+#titre a, .titre a {
+	text-decoration: none;
+}
+#titreart {
+	font-size: 140%;
+	padding: 0;
+	margin-bottom: 10px;
+}
+#search {
+	z-index: 1;
+	position: absolute;
+	left: 14px;
+	top: 14px;
+	width: 233px;
+	background-color: #FFF;
+	padding: 0 7px 7px 7px;
+	font-size: 90%;
+}
+#rechercher {
+	float: left;
+	width: 498px;
+	font-size: 85%;
+	margin: 0 0 0 14px;
+	text-align: left;
+}
+#rechercher .recherche {
+	background-color: #FFF;
+	margin-top: 3px;
+	padding-top: 14px;
+}
+#rechercher .rechercheimg {
+	float: left;
+	width: 109px;
+	padding: 0px 7px 14px 14px;
+}
+#rechercher .recherchetxt {
+	float: right;
+	width: 353px;
+	text-align: left;
+	padding: 0px 14px 14px 0px;
+}
+#menuhaut {
+	z-index: 2;
+	position: absolute;
+	left: 14px;
+	top: 120px;
+	padding-top: 1px;
+	text-align: left;
+}
+#menuhaut a {
+	font-size: 153%;
+	padding: 1px 5px 6px 5px;
+	background-color: #FFF;
+	color: #000;
+	text-decoration: none;
+}
+#menuhaut a:hover {
+	background-color: #000;
+	color: #FFF;
+	text-decoration: none;
+}
+#menuhautbis {
+	z-index: 2;
+	position: absolute;
+	left: 690px;
+	top: 120px;
+	padding: 6px 0;
+}
+#menuhautbis a {
+	font-size: 115%;
+	padding: 6px 6px 10px 6px;
+	background-color: #000;
+	color: #FFF;
+	text-decoration: none;
+}
+#menuhautbis a:hover {
+	background-color: #FFF;
+	color: #000;
+	text-decoration: none;
+}
+#logo {
+	z-index: 3;
+	position: absolute;
+	left: 149px;
+	top: 192px;
+	width: 473px;
+	height: 174px;
+	font-size: 90%;
+	text-align: left;
+	background-color: #FFF;
+}
+#logoimg {
+	padding: 38px 0 0 38px;
+}
+#logotxt {
+	padding: 7px 0 0 16px;
+}
+#scroll1 {
+	font-size: 100%;
+	margin-top: 10px;
+	background-color: #FFF;
+	padding: 2px 7px 0 7px;
+	width: 646px;
+}
+#scroll2 {
+	z-index: 4;
+	position: absolute;
+	left: 378px;
+	top: 366px;
+	width: 244px;
+	height: 172px;
+	line-height: 0;
+	background-color: #FFF;
+}
+#scrollradio {
+	font-size: 100%;
+	margin-top: 0px;
+	background-color: #FFF;
+	padding: 0px;
+	width: 259px;
+}
+#scrollradio2 {
+	font-size: 100%;
+	margin-top: 0px;
+	background-color: #FFF;
+	padding: 0px;
+	width: 271px;
+}
+#marqueecontainer{
+	z-index: 4;
+	position: absolute;
+	left: 378px;
+	top: 366px;
+	width: 244px;
+	height: 172px;
+	line-height: 0;
+	background-color: #FFF;
+  overflow: hidden;
+  text-align: left;
+}
+#menubas {
+	margin: 0px 0 274px 0;
+	padding: 102px 0 4px 0px;
+	text-align: left;
+}
+#menubas a {
+	font-size: 110%;
+	padding: 2px 4px 5px 5px;
+	background-color: #FFF;
+	color: #000;
+	text-decoration: none;
+}
+#menubas a:hover {
+	background-color: #000;
+	color: #FFF;
+	text-decoration: none;
+}
+#divnone, .divnone {
+	padding: 0px;
+	margin: 0px;
+	line-height: 0px;
+	border: none;
+}
+/* Boxes */
+#popfil, #poplab, #etaussi {
+	background-color: #FFF;
+	padding: 14px 0 11px 14px;
+	text-align: left;
+}
+#poplab2 {
+	background-color: #FFF;
+	margin-top:27px;
+	padding: 14px 0 11px 14px;
+	text-align: left;
+}
+#popfilcal {
+	background-color: #fff;
+	margin-top: 8px;
+}
+#popincouv {
+	background-color: #FFF;
+	margin-top: 8px;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	line-height: 0;
+}
+#popfilaide, #popintitre, #lescinqplustxt, #etaussitxt {
+	background-color: #FFF;
+	margin-top: 8px;
+	padding: 7px;
+	text-align: left;
+}
+#etaussitxt {
+	background-color: #FFF;
+	margin-top: 8px;
+	margin-bottom: 21px;
+	padding: 7px;
+	text-align: left;
+}
+#poparticletxt {
+	background-color: #FFF;
+	margin-top: 0px;
+	padding: 3px 7px 7px 7px;
+	text-align: left;
+}
+#poparticletxt a {
+  text-decoration: underline;
+}
+#poparticle {
+	margin-top: 14px;
+	margin-bottom: 0px;
+}
+#popetc {
+	margin-top: 14px;
+	background-color: #FFF;
+	padding: 14px 0 11px 14px;
+}
+#popin {
+	margin-top: 14px;
+	background-color: #FFF;
+	padding: 14px 0 11px 14px;
+}
+#poplabuneimg {
+	margin-top: 8px;
+	width: 77px;
+	height: 130px;
+	float: left;
+}
+#popsonicsimg {
+	margin-top: 0px;
+	width: 77px;
+	height: 232px;
+/*height: 280px; */
+}
+#poplabunetxt {
+	background-color: #FFF;
+	margin-top: 8px;
+	padding: 7px;
+	width: 166px;
+	height: 95px;
+	float: right;
+	text-align: left;
+}
+#lescinqplus {
+	margin-top: -7px;
+	background-color: #FFF;
+	padding: 14px 0 11px 14px;
+	text-align: left;
+}
+.cinqplusajax {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+.cinqplusajax ul {
+	list-style: none;
+}
+.cinqplusajax li {
+	display: inline;
+}
+.cinqplusajaxtxt {
+	margin-top: 4px;
+}
+/* Eases */
+.popquiimg {
+	background-color: #FFF;
+	text-align: left;
+	float: left;
+	width: 158px;
+	margin: 0;
+	padding: 0px;
+	line-height: 0px;
+}
+.popquitxt {
+	background-color: #FFF;
+	margin: 0 0 14px 8px;
+	text-align: left;
+	float: left;
+	width: 295px;
+	padding: 14px;
+}
+.blackbox {
+	background-color: #000;
+	color: #FFF;
+	margin: 3px 0 14px 0;
+	text-align: left;
+	width: 472px;
+	padding: 14px;
+}
+.noblackbox {
+	background-color: #000;
+	color: #FFF;
+	margin: 0px 0 14px 0;
+	text-align: left;
+	width: 472px;
+	padding: 14px;
+}
+.whitebox {
+	background-color: #FFF;
+	color: #000;
+	text-align: left;
+	width: 472px;
+	padding: 14px;
+	margin: 0 0 14px 0;
+}
+.whitebox li {
+	margin: 7px 0 0 14px;
+	padding: 0px;
+	padding-left: 7px;
+	background-image: url(../images/fleche.gif);
+	background-repeat: no-repeat;
+	background-position: 0 .5em;
+}
+.whitebox2 {
+	background-color: #FFF;
+	color: #000;
+	text-align: left;
+	width: 472px;
+	padding: 14px;
+	margin: 0 0 14px 0;
+}
+.whitebox2 li {
+	margin: 7px 0 0 14px;
+	padding: 0px;
+	padding-left: 7px;
+	background-image: url(../images/fleche.gif);
+	background-repeat: no-repeat;
+	background-position: 0 .5em;
+}
+.whitebox2 a {
+text-decoration: underline;
+}
+/* Dives */
+#left {
+	float: left;
+	width: 175px;
+	font-size: 80%;
+	text-align: left;
+}
+#leftart {
+	float: left;
+	width: 200px;
+	font-size: 80%;
+	text-align: left;
+}
+#center {
+	float: left;
+	width: 498px;
+	padding: 0 7px 0 7px;
+	text-align: left;
+	margin: 0 0 0 10px;
+}
+#right {
+	float: left;
+	width: 271px;
+	font-size: 80%;
+	text-align: left;
+	margin: 0 0 0 2px;
+}
+#rightart {
+	float: left;
+	width: 271px;
+	font-size: 80%;
+	margin: 62px 0 0 6px;
+}
+#rightgab {
+	float: left;
+	width: 271px;
+	font-size: 80%;
+	margin: 62px 0 0 1px;
+}
+/* Sommaire */
+#sommaire {
+	margin: 627px 0 0 14px;
+}
+#popagenda {
+	z-index: 5;
+	position: absolute;
+	left: 206px;
+	top: 561px;
+	background-color: #FFF;
+	width: 145px;
+	padding: 14px 0 8px 14px;
+}
+#popsonics {
+	z-index: 5;
+	position: absolute;
+	left: 713px;
+	top: 561px;
+	background-color: #FFF;
+	width: 257px;
+	padding: 14px 0 8px 14px;
+	text-align: left;
+}
+#popagendauneimg {
+	float: left;
+	width: 158px;
+	height: 212px;
+	background-color: #FFF;
+	margin: 0 0 14px 0;
+}
+#popagendaunetxt {
+	float: left;
+	margin: 0 0 14px 8px;
+	width: 296px;
+	height: 184px;
+	float: left;
+	background-color: #FFF;
+	padding: 14px;
+}
+#popagendaunenotxt {
+	float: left;
+	margin: 0 0 14px 8px;
+	width: 296px;
+	float: left;
+	background-color: #FFF;
+	padding: 14px;
+}
+.popagendautre {
+	float: left;
+	width: 158px;
+	margin: 0px 8px 14px 0;
+}
+.popagendautreimg {
+	width: 158px;
+	height: 106px;
+	background-color: #FFF;
+}
+.popagendautretxt {
+	margin-top: 8px;
+	width: 142px;
+	height: 196px;
+	background-color: #FFF;
+	padding: 8px;
+	font-size: 80%;
+}
+#pistolet {
+	z-index: 1500;
+	position: absolute;
+  top: 424px;
+  left: 14px;
+	width: 175px;
+	height: 194px;
+	background-image: url(../images/pistolet.gif);
+	background-position: no-repeat;
+	padding: 0px;
+	font-size: 80%;
+	text-align: left;
+}
+#pistolet a {
+text-decoration: underline;
+}
+#pistolet p {
+  margin-bottom: 7px;
+}
+/* Article */
+#logoart {
+	z-index: 3;
+	position: absolute;
+	left: 206px;
+	top: 170px;
+	width: 202px;
+	height: 77px;
+	font-size: 90%;
+	text-align: left;
+	background-color: #FFF;
+}
+#logoartimg {
+	padding: 17px 0 0 19px;
+}
+#bb {
+	z-index: 1;
+	position: absolute;
+	left: 301px;
+	top: 246px;
+	width: 107px;
+	height: 74px;
+	background-color: #FFF;
+}
+#article {
+	margin: 335px 0 0 14px;
+}
+#txtart {
+	background-color: #FFF;
+	margin-top: 4px;
+	padding: 14px;
+	text-align: left;
+}
+#txtart a {
+	text-decoration: underline;
+}
+.tool {
+	padding: 6px 14px 0 0;
+	background-color: #FFF;
+	text-align: right;
+}
+.tool2 {
+	padding: 0px 14px 10px 0;
+	background-color: #FFF;
+	text-align: right;
+}
+#credit, .credit {
+	color: #666;
+	font-size: 70%;
+	margin-bottom: 8px;
+}
+#commentairestotal {
+	background-color: #FFF;
+	margin-top: 14px;
+	padding: 14px;
+	text-align: left;
+	font-size: 130%;
+}
+#commentaires {
+	background-color: #FFF;
+	margin-top: 8px;
+	padding: 14px;
+	text-align: left;
+}
+#commentaires p.spip {
+	margin-bottom: 0;
+}
+#commentaires2 {
+	background-color: #FFF;
+	padding: 14px;
+	text-align: left;
+	margin: 7px 0 7px 42px;
+}
+#commenter {
+	padding: 14px;
+	background-color: #FFF;
+}
+#commenter .forml {
+	width: 465px;
+	border: 1px #000 solid;
+	font-family: Times;
+	font-size: 90%;
+	margin: 0;
+	padding: 1px;
+}
+#commenter .spip_bouton {
+	background-color: #000;
+	color: #FFF;
+	border: 0px;
+	font-family: Times;
+	font-size: 90%;
+	margin: 0;
+	padding: 1px;
+}
+.nospip_bouton {
+	margin: 0px;
+	padding: 7px 0px 0px 0px;
+	line-height: 0px;
+	color: #000;
+	background-color: #FFF;
+	border: 0px;
+	font-family: Times;
+	font-size: 100%;
+}
+#archives {
+	background-color: #FFF;
+	margin-top: 0px;
+	padding: 14px;
+	text-align: left;
+}
+#pagination {
+	background-color: #FFF;
+	margin-top: 0px;
+	padding: 14px 7px 28px 7px;
+	text-align: left;
+	margin-right: 8px;
+}
+#paginationrecherche {
+float: right;
+
+background-color: #FFF;
+	margin-top: 14px;
+	padding: 14px;
+	text-align: center;
+}
+/* Calendrier */
+#popfilcal .popfiltable {
+	border-collapse: collapse;
+	border: 1px dotted #000;
+	font-size: 85%
+}
+#popfilcal .mois {
+	height: 17px;
+	padding: 7px 0 0 7px;
+	line-height: 0px;
+}
+#popfilcal .none {
+	border: 1px dotted #000;
+	text-align: left;
+	width: 24px;
+	height: 24px;
+}
+#popfilcal .lien {
+	background-color:  #000;
+	color: #FFF;
+	text-align: center;
+	border: 1px dotted #FFF;
+	width: 24px;
+	height: 24px;
+}
+#popfilcal .lien a {
+	color: #FFF;
+	text-decoration: none;
+}
+#popfilcal .nolien {
+	background-color: #FFF;
+	text-align: center;
+	border: 1px dotted #000;
+	width: 24px;
+	height: 24px;
+}
+#e-calendrier {
+	margin: 407px 0 0 15px;
+}
+#e-calendrier .popfiltable {
+	border-collapse: collapse;
+	border: 1px dotted #000;
+	font-size: 80%
+}
+#e-calendrier .mois {
+	background-color:  #FFF;
+	position: absolute;
+	z-index: 6;
+	top: 334px;
+	left: 204px;
+	width: 290px;
+	height: 44px;
+	padding: 14px 14px 0 14px;
+}
+#e-calendrier .bignone {
+	border: 1px dotted #000;
+	text-align: left;
+	width: 135px;
+	height: 136px;
+}
+#e-calendrier .biglien {
+	background-color:  #FFF;
+	color: #000;
+	text-align: left;
+	border: 1px dotted #000;
+	width: 121px;
+	height: 136px;
+	padding-left: 14px;
+	padding-bottom: 14px;
+}
+#e-calendrier .biglien a {
+	color: #000;
+	margin: 0px;
+	padding: 0px;
+}
+#e-calendrier .bignolien {
+	background-color:  #FFF;
+	text-align: center;
+	border: 1px dotted #000;
+	width: 135px;
+	height: 136px;
+}
+#e-calendrier .bigdate {
+	text-align: right;
+	padding: 14px 14px 7px 0;
+}

@@ -1,0 +1,504 @@
+ <!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html dir="ltr" lang="fr">
+  <head>
+    <title> poptronics
+    </title> 
+    <meta name="description" content="le site des cultures hacktives" /> 
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="squelettes/css/spip.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="squelettes/css/spiptronics.css" type="text/css" media="all" />
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="alternate" type="application/rss+xml" title="Syndiquer tout le site " href="spip.php?page=backend&id_rubrique=1" />
+    <!--[if lte IE 6]>
+    <link rel="stylesheet" href="squelettes/css/ie.css" type="text/css" />
+    <![endif]-->
+<script type="text/javascript" src="squelettes/java/java.js"></script>
+<script type="text/javascript" src="squelettes/java/scroll.js"></script>
+<script type="text/javascript" src="squelettes/java/ajaxcontent.js"></script>
+<script type="text/javascript" src="squelettes/java/tooltip.js"></script>
+    <style type="text/css">
+        <!--
+        body {
+        background-image: url(squelettes/images/trame/2.png);
+        background-repeat: repeat;
+        }
+        -->
+      </style>
+  </head>
+  <body onload="MM_preloadImages('squelettes/images/rollover/popagenda2.gif,squelettes/images/rollover/popfil2.gif,squelettes/images/rollover/poplab2.gif,squelettes/images/rollover/popin2.gif,squelettes/images/rollover/popqui2.gif,squelettes/images/identifiant/identifiant.on.gif,squelettes/images/identifiant/trame.on.gif')">
+    <div id="identifiant">
+      <a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('identifiant','','squelettes/images/identifiant/identifiant.on.gif',1)">
+        <img src="squelettes/images/identifiant/identifiant.off.gif" name="identifiant" width="475" height="170" alt="" /></a>
+    </div>
+    <div id="trame">
+      <a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('trame','','squelettes/images/identifiant/trame.on.gif',1)">
+        <img src="squelettes/images/identifiant/trame.off.gif" name="trame" width="39" height="342" alt="" /></a>
+    </div>
+    <table style="float: left; width: 992px;" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td >
+          <div id="search">
+  <form action="https://poptronics.fr/spip.php?page=recherche" method="get" style="margin: 0px; padding: 0px;">
+    <table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+      <tr>
+        <td align="left">&lt;<input class="nospip_bouton" type="submit" value="recherche" />&gt;&nbsp;</td>
+        <td align="right" style="padding-top: 7px;">&lt; publi&eacute;s: 1924 articles &gt;</td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center">
+          <div>
+            <a name="formulaire_recherche" id="formulaire_recherche"></a>
+            
+            <div class="none">
+              
+<input name='page' value='recherche' type='hidden' />
+            </div> 
+            
+            <div class="none">
+              <input type="text" class="searchforml" size="19" name="recherche" id="recherche" />
+            </div>
+          </div></td>
+      </tr>
+      <tr>
+        <td align="left">
+          paris' 05'01'23 </td>
+        <td align="right"> &lt; mise &agrave; jour: 08:34 &gt;</td>
+      </tr>
+    </table>
+  </form>
+</div>
+           <div id="banner">
+</div>
+            <div id="menuhaut">
+              <table cellpadding="0" cellspacing="0" border="0">
+              <tr>
+              <td>
+                  <a href="-pop-fil-">&lt;  pop'fil &gt;</a><a href="spip.php?page=pop-agenda">&lt; pop'agenda &gt;</a><a href="-pop-lab-">&lt; pop'lab &gt;</a><a href="-pop-sonics-">&lt; pop'sonics &gt;</a><a href="-pop-etc-">&lt; pop'etc &gt;</a> 
+                </td></tr><tr><td align="right"><div style="width: 100%; background-color: #FFF">
+                <marquee id="scroll1" scrollamount="2" direction="left" loop="true"> 
+                
+                <img src='local/cache-texte/337d0a01d5c6ecab1382f869fd9988f3.png' width='587' height='16' style='width:587px;height:16px;' class='format_png' alt='Elections anticip&#233;es et session extraordinaire pour Serena Williams qui a supprim&#233; les trois otages afghans.' />
+                
+                </marquee></div>
+                </td></tr></table>
+              </div>
+             <div id="pave">
+</div>
+              <div id="logo">
+  <div id="logoimg">
+    <img src="squelettes/images/logo.gif" alt="" />
+  </div>
+  <div id="logotxt"> le site des cultures hacktives
+  </div>
+</div>
+<div id="marqueecontainer" onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=marqueespeed">
+<div id="vmarquee" style="position: absolute; width: 100%;"><div> <a href="spip.php?page=pop-agenda" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Agenda','','squelettes/images/rollover/popagenda2.gif',1)"> <img src="squelettes/images/rollover/popagenda1.gif" name="Agenda" alt="" id="Agenda" /></a></div><div> <a href="-pop-fil-" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Fil','','squelettes/images/rollover/popfil2.gif',1)"> <img src="squelettes/images/rollover/popfil1.gif" name="Fil" alt="" id="Fil" /></a></div><div> <a href="-pop-lab-" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Lab','','squelettes/images/rollover/poplab2.gif',1)"> <img src="squelettes/images/rollover/poplab1.gif" name="Lab" alt="" id="Lab" /></a></div><div> <a href="-pop-sonics-" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Sonics','','squelettes/images/rollover/popsonics2.gif',1)"> <img src="squelettes/images/rollover/popsonics1.gif" name="Sonics" alt="" id="Sonics" /></a></div><div>
+<a href="-pop-etc-" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Etc','','squelettes/images/rollover/popetc2.gif',1)"> <img src="squelettes/images/rollover/popetc1.gif" name="Etc" alt="" id="Etc" /></a></div><div> <a href="spip.php?page=pop-agenda" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Agenda2','','squelettes/images/rollover/popagenda2.gif',1)"> <img src="squelettes/images/rollover/popagenda1.gif" name="Agenda2" alt="" id="Agenda2" /></a></div><div> <a href="-pop-fil-" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Fil2','','squelettes/images/rollover/popfil2.gif',1)"> <img src="squelettes/images/rollover/popfil1.gif" name="Fil2" alt="" id="Fil2" /></a></div><div> <a href="-pop-lab-" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Lab2','','squelettes/images/rollover/poplab2.gif',1)"> <img src="squelettes/images/rollover/poplab1.gif" name="Lab2" alt="" id="Lab2" /></a></div><div>
+<a href="-pop-sonics-" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Sonics2','','squelettes/images/rollover/popsonics2.gif',1)"> <img src="squelettes/images/rollover/popsonics1.gif" name="Sonics2" alt="" id="Sonics2" /></a></div><div> <a href="-pop-etc-" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Etc2','','squelettes/images/rollover/popetc2.gif',1)"> <img src="squelettes/images/rollover/popetc1.gif" name="Etc2" alt="" id="Etc2" /></a></div><div> <a href="spip.php?page=pop-agenda" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Agenda3','','squelettes/images/rollover/popagenda2.gif',1)"> <img src="squelettes/images/rollover/popagenda1.gif" name="Agenda3" alt="" id="Agenda3" /></a></div><div> <a href="-pop-fil-" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Fil3','','squelettes/images/rollover/popfil2.gif',1)"> <img src="squelettes/images/rollover/popfil1.gif" name="Fil3" alt="" id="Fil3" /></a></div><div>
+<a href="-pop-lab-" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Lab3','','squelettes/images/rollover/poplab2.gif',1)"> <img src="squelettes/images/rollover/poplab1.gif" name="Lab3" alt="" id="Lab3" /></a></div><div> <a href="-pop-sonics-" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Sonics3','','squelettes/images/rollover/popsonics2.gif',1)"> <img src="squelettes/images/rollover/popsonics1.gif" name="Sonics3" alt="" id="Sonics3" /></a></div><div> <a href="-pop-etc-" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Etc3','','squelettes/images/rollover/popetc2.gif',1)"> <img src="squelettes/images/rollover/popetc1.gif" name="Etc3" alt="" id="Etc3" /></a></div><div> <a href="spip.php?page=pop-agenda" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Agenda4','','squelettes/images/rollover/popagenda2.gif',1)"> <img src="squelettes/images/rollover/popagenda1.gif" name="Agenda4" alt="" id="Agenda4" /></a></div><div>
+<a href="-pop-fil-" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Fil4','','squelettes/images/rollover/popfil2.gif',1)"> <img src="squelettes/images/rollover/popfil1.gif" name="Fil4" alt="" id="Fil4" /></a></div><div> <a href="-pop-lab-" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Lab4','','squelettes/images/rollover/poplab2.gif',1)"> <img src="squelettes/images/rollover/poplab1.gif" name="Lab4" alt="" id="Lab4" /></a></div><div> <a href="-pop-sonics-" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Sonics4','','squelettes/images/rollover/popsonics2.gif',1)"> <img src="squelettes/images/rollover/popsonics1.gif" name="Sonics4" alt="" id="Sonics4" /></a></div><div> <a href="-pop-etc-" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Etc4','','squelettes/images/rollover/popetc2.gif',1)"> <img src="squelettes/images/rollover/popetc1.gif" name="Etc4" alt="" id="Etc4" /></a></div><div>
+<a href="spip.php?page=pop-agenda" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Agenda5','','squelettes/images/rollover/popagenda2.gif',1)"> <img src="squelettes/images/rollover/popagenda1.gif" name="Agenda5" alt="" id="Agenda5" /></a></div><div> <a href="-pop-fil-" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Fil5','','squelettes/images/rollover/popfil2.gif',1)"> <img src="squelettes/images/rollover/popfil1.gif" name="Fil5" alt="" id="Fil5" /></a></div><div> <a href="-pop-lab-" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Lab5','','squelettes/images/rollover/poplab2.gif',1)"> <img src="squelettes/images/rollover/poplab1.gif" name="Lab5" alt="" id="Lab5" /></a></div><div> <a href="-pop-sonics-" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Sonics5','','squelettes/images/rollover/popsonics2.gif',1)"> <img src="squelettes/images/rollover/popsonics1.gif" name="Sonics5" alt="" id="Sonics5" /></a></div><div>
+<a href="-pop-etc-" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Etc5','','squelettes/images/rollover/popetc2.gif',1)"> <img src="squelettes/images/rollover/popetc1.gif" name="Etc5" alt="" id="Etc5" /></a></div></div>
+</div>
+               <div id="pistolet">
+<div style="float: left; padding-top: 4px; padding-left: 4px;">
+<img src="squelettes/images/popnews.gif" alt="" />
+</div>
+<div style="float:right; padding-top: 4px; padding-right: 3px;">
+<a href="https://www.poptronics.fr/spip.php?page=backend&id_rubrique=51"><img src="squelettes/images/rss.gif" alt="" /></a>
+</div><br class="clearfloat" />
+
+<div style="font-size: 11px; padding: 11px 6px 6px 6px;">Poptronics, média des cultures hacktives, est adepte de la slow info. Pour le speed, allez sur <a href="http://twitter.com/#!/Poptronicsfr" class="spip_out" target="_blank"><strong class="spip">Twitter</strong></a> et <a href="http://www.facebook.com/pages/Poptronicsfr/108627972556022" class="spip_out" target="_blank"><strong class="spip">Facebook</strong></a>. Pour l&#8217;archive, offrez-vous <strong class="spip">le livre <a href="http://presses.t-o-m-b-o-l-o.eu/" class="spip_out" target="_blank">&#171;&nbsp;Poptronics&nbsp;&#187;</a></strong>, qui invite pour nos 10 ans 10 + 1 artistes à revisiter nos archives. Pour le son, écoutez <strong class="spip">&#171;&nbsp;PopAntivirus&nbsp;&#187;</strong>, l&#8217;émission antidote sur <a href="https://p-node.org/" class="spip_out" target="_blank">∏node</a> et  <a href="https://poptronics.fr/PopAntivirus-1-la-SF-feministe-des" class="spip_out" target="_blank">Poptronics</a>. Pour sortir de l&#8217;isolement, discutez avec <a href="http://dialector.poptronics.fr/" class="spip_out" target="_blank"><strong class="spip">&#171;&nbsp;Dialector&nbsp;&#187;</strong></a>, inédit de Chris Marker.</div>
+
+
+</div>
+                <div id="popagenda">
+                  <a href="-pop-fil-">
+                    <img src="squelettes/images/popfiltitre.gif" alt="" /></a>
+                </div>
+                <div id="popsonics">
+                  <a href="-pop-sonics-">
+                    <img src="squelettes/images/popsonics.gif" alt="" /></a>
+                </div>
+                <div id="sommaire">
+                  <div id="left">
+                  <script type="text/javascript">
+                  ajaxpage('spip.php?page=pop-top_mini', 'popfilcal')
+                  </script>
+                     <div id="popfil">
+  <img src="squelettes/images/poptop.gif" alt="" />
+</div>
+<div id="popfilcal"></div>
+<div id="fixedtipdiv" style="height: 28px; background-color: #FFF;"></div>
+<div id="popfilaide"> &lt;
+  <a href="spip.php?page=abonnement">abonnement</a>
+  &gt;
+</div>
+                      <div id="popetc">
+  <a href="-pop-etc-">
+    <img src="squelettes/images/popetc.gif" alt="" /></a><br />made in poptronics
+</div>
+
+  <div id="popincouv"> 
+    
+      <a href="The-Residents-une-interview">
+        <img src="local/cache-gd2/1a2b278e31c80a5fc6a0aa17eb1b473e.png" alt="" /></a>
+        
+  </div>
+  <div id="popintitre"> <a href="The-Residents-une-interview">The Residents, une interview exclusive</a>
+  </div>
+  
+                       <div id="popin">
+  <a href="-pop-in-"><img src="squelettes/images/popin.gif" alt="" /></a><br /> poptronics in vivo
+</div>
+<div id="popintitre">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+                  </div>
+                  <div id="center">
+                    
+                      <div id="popagendauneimg">
+                        
+                          
+                            <a href="L-icone-Susan-Kare" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2645','','local/cache-gd2/377f8771ee538630224a5f3c73308669.png',2645)">
+                              <img src="local/cache-gd2/17022b7e70b120bbdc850b319a05bf48.png" name="Image2645" id="Image2645" class="format_png" alt="" /></a>
+                            
+                            
+                      </div>
+                      <div id="popagendaunetxt">
+                        <span class="date"> &lt; 05'08'22 &gt;
+                        </span><br />
+                        <div class="titre">
+                          <a href="L-icone-Susan-Kare">L&#8217;icône Susan Kare</a>
+                        </div> L’air de rien, elle a tout changé. Susan Kare, pionnière de l’icône pixellisée des premiers ordinateurs pour Apple, mais aussi des signes graphiques qu’on&nbsp;(...)
+                        <a href="L-icone-Susan-Kare" class="lirelasuite">' lire la suite</a>
+                      </div>
+                      <br class="clearfloat" />
+                      
+                        <div class="popagendautre">
+                          <div class="popagendautreimg">
+                            
+                              
+                                <a href="Papillote-s-eprend-dans-la-Toile" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2643','','local/cache-gd2/0ef16be5a3502b9861e748dc4a84a0e6.png',2643)">
+                                  <img src="local/cache-gd2/6ca15546b0fbd33b955b6c029b4d6e1a.png" name="Image2643" id="Image2643" class="format_png" alt="" /></a>
+                                
+                                
+                          </div>
+                          <div class="popagendautretxt">
+                            <span class="date"> &lt; 06'05'22 &gt;
+                            </span><br />
+                            <div class="titre">
+                              <a href="Papillote-s-eprend-dans-la-Toile">Papillote s&#8217;éprend dans la Toile</a>
+                            </div> La tinyletter de Nicolas Frespech tisse des liens avec l’artiste Valentin Godard. De son workshop à l’école des&nbsp;(...)
+                            <a href="Papillote-s-eprend-dans-la-Toile" class="lirelasuite">' lire la suite</a>
+                          </div>
+                        </div>
+                        
+                        <div class="popagendautre">
+                          <div class="popagendautreimg">
+                            
+                              
+                                <a href="On-vote-pour-TOUT-ART-CONTRE-LA" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2642','','local/cache-gd2/846f69416adef986d6e37ba4ed00de53.png',2642)">
+                                  <img src="local/cache-gd2/5053bbd00437bfc5ae9bb3945adf23d0.png" name="Image2642" id="Image2642" class="format_png" alt="" /></a>
+                                
+                                
+                          </div>
+                          <div class="popagendautretxt">
+                            <span class="date"> &lt; 10'04'22 &gt;
+                            </span><br />
+                            <div class="titre">
+                              <a href="On-vote-pour-TOUT-ART-CONTRE-LA">On vote pour TOUT ART CONTRE LA GUERRE</a>
+                            </div> Il faut faire vite. La sidération des premiers jours qui ont suivi l’invasion de l’Ukraine est passée. L’Europe, les&nbsp;(...)
+                            <a href="On-vote-pour-TOUT-ART-CONTRE-LA" class="lirelasuite">' lire la suite</a>
+                          </div>
+                        </div>
+                        
+                        <div class="popagendautre">
+                          <div class="popagendautreimg">
+                            
+                              
+                                <a href="A-contrejeu-Papillote-decolonise-l" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2641','','local/cache-gd2/43c90c100056b3f4413009fa7befa815.png',2641)">
+                                  <img src="local/cache-gd2/e7905113771637ffc6108e1f71778e43.png" name="Image2641" id="Image2641" class="format_png" alt="" /></a>
+                                
+                                
+                          </div>
+                          <div class="popagendautretxt">
+                            <span class="date"> &lt; 08'04'22 &gt;
+                            </span><br />
+                            <div class="titre">
+                              <a href="A-contrejeu-Papillote-decolonise-l">A contrejeu, Papillote décolonise l&#8217;imaginaire</a>
+                            </div> Papillote, la tinyletter de l’artiste Nicolas Frespech, est signée Isabelle Arvers, qui connaît le game art comme sa&nbsp;(...)
+                            <a href="A-contrejeu-Papillote-decolonise-l" class="lirelasuite">' lire la suite</a>
+                          </div>
+                        </div>
+                        
+                        <div class="popagendautre">
+                          <div class="popagendautreimg">
+                            
+                              
+                                <a href="Papillote-sans-frontieres" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2639','','local/cache-gd2/cd200e6db36c126028260b9bc5b8f6e7.png',2639)">
+                                  <img src="local/cache-gd2/192b107a236dd76ea54fbe72ad343c96.png" name="Image2639" id="Image2639" class="format_png" alt="" /></a>
+                                
+                                
+                          </div>
+                          <div class="popagendautretxt">
+                            <span class="date"> &lt; 19'03'22 &gt;
+                            </span><br />
+                            <div class="titre">
+                              <a href="Papillote-sans-frontieres">Papillote sans frontières</a>
+                            </div> Ce ne sont plus des bruits de bottes, mais des tapis de bombes qui s’abattent sur les Ukrainiens, aux portes de&nbsp;(...)
+                            <a href="Papillote-sans-frontieres" class="lirelasuite">' lire la suite</a>
+                          </div>
+                        </div>
+                        
+                        <div class="popagendautre">
+                          <div class="popagendautreimg">
+                            
+                              
+                                <a href="Ca-sent-le-sapin-tous-au-chalet" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2638','','local/cache-gd2/febac5c6a5eb72745da2443b21d5dc07.png',2638)">
+                                  <img src="local/cache-gd2/6aa27fff99319ea77e9ce017e261d5e5.png" name="Image2638" id="Image2638" class="format_png" alt="" /></a>
+                                
+                                
+                          </div>
+                          <div class="popagendautretxt">
+                            <span class="date"> &lt; 30'12'21 &gt;
+                            </span><br />
+                            <div class="titre">
+                              <a href="Ca-sent-le-sapin-tous-au-chalet">Ça sent le sapin, tous au chalet&nbsp;!</a>
+                            </div> Il n’y a pas que Mariah Carey à Noël. Le chalet des cîmes, voilà le refuge idéal et rêvé des mondes virtuels. La&nbsp;(...)
+                            <a href="Ca-sent-le-sapin-tous-au-chalet" class="lirelasuite">' lire la suite</a>
+                          </div>
+                        </div>
+                        
+                        <div class="popagendautre">
+                          <div class="popagendautreimg">
+                            
+                              
+                                <a href="Jouons-un-peu-a-dejouer-le-genre" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2637','','local/cache-gd2/19de8577c85231f8d070a52a4d622ed3.png',2637)">
+                                  <img src="local/cache-gd2/62ee8e52c58ba6dbf6ee87dda7f1fe9b.png" name="Image2637" id="Image2637" class="format_png" alt="" /></a>
+                                
+                                
+                          </div>
+                          <div class="popagendautretxt">
+                            <span class="date"> &lt; 12'11'21 &gt;
+                            </span><br />
+                            <div class="titre">
+                              <a href="Jouons-un-peu-a-dejouer-le-genre">Jouons un peu à déjouer le genre dans le jeu vidéo</a>
+                            </div> « Être ou ne pas être un lapin, une dragonne, une licorne »... La tinyletter Papillote est ce mois-ci signée Agnès de&nbsp;(...)
+                            <a href="Jouons-un-peu-a-dejouer-le-genre" class="lirelasuite">' lire la suite</a>
+                          </div>
+                        </div>
+                        
+                        <div class="popagendautre">
+                          <div class="popagendautreimg">
+                            
+                              
+                                <a href="Il-est-plus-que-temps-d-Exploser" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2636','','local/cache-gd2/d06a27f655cc7984e6f509422ac1bc75.png',2636)">
+                                  <img src="local/cache-gd2/0b9ecb45d0c9ab08bb66801b5c980c1b.png" name="Image2636" id="Image2636" class="format_png" alt="" /></a>
+                                
+                                
+                          </div>
+                          <div class="popagendautretxt">
+                            <span class="date"> &lt; 29'10'21 &gt;
+                            </span><br />
+                            <div class="titre">
+                              <a href="Il-est-plus-que-temps-d-Exploser">Il est plus que temps d&#8217;&#171;&nbsp;Exploser le plafond&nbsp;&#187;</a>
+                            </div> Il y a des livres comme ça, qui sortent exactement au moment où on en a besoin, pour nourrir la colère. C’est le cas&nbsp;(...)
+                            <a href="Il-est-plus-que-temps-d-Exploser" class="lirelasuite">' lire la suite</a>
+                          </div>
+                        </div>
+                        
+                        <div class="popagendautre">
+                          <div class="popagendautreimg">
+                            
+                              
+                                <a href="En-voiture-Papillote,2635" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2635','','local/cache-gd2/3ba7ec2984f26a83c6be02be3835eda6.png',2635)">
+                                  <img src="local/cache-gd2/87fb9a8a24902478199b24025c08ac53.png" name="Image2635" id="Image2635" class="format_png" alt="" /></a>
+                                
+                                
+                          </div>
+                          <div class="popagendautretxt">
+                            <span class="date"> &lt; 24'10'21 &gt;
+                            </span><br />
+                            <div class="titre">
+                              <a href="En-voiture-Papillote,2635">En voiture, Papillote&nbsp;!</a>
+                            </div> Avant que l’internet ne devienne le paysage de nos données privées mité par les Gafam, on l’appelait le cyberespace et&nbsp;(...)
+                            <a href="En-voiture-Papillote,2635" class="lirelasuite">' lire la suite</a>
+                          </div>
+                        </div>
+                        
+                        <div class="popagendautre">
+                          <div class="popagendautreimg">
+                            
+                              
+                                <a href="Hommage-a-Melvin-Van-Peebles-l" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2633','','local/cache-gd2/16e90c77ab4083d293b37d7100ff4117.png',2633)">
+                                  <img src="local/cache-gd2/b433c882926f963844f32dbba0fdd78f.png" name="Image2633" id="Image2633" class="format_png" alt="" /></a>
+                                
+                                
+                          </div>
+                          <div class="popagendautretxt">
+                            <span class="date"> &lt; 24'09'21 &gt;
+                            </span><br />
+                            <div class="titre">
+                              <a href="Hommage-a-Melvin-Van-Peebles-l">Hommage à Melvin Van Peebles, l&#8217;interview sur ses milles et une vies en réécoute</a>
+                            </div> Il était le père de la Blaxploitation, figure underground et immense bonhomme. Melvin Van Peebles, premier noir dont&nbsp;(...)
+                            <a href="Hommage-a-Melvin-Van-Peebles-l" class="lirelasuite">' lire la suite</a>
+                          </div>
+                        </div>
+                        
+                
+                  <br class="clearfloat" />
+                  <div id="pagination">
+                  <a name='pagination_autre' id='pagination_autre'></a>
+                  <a href='-pop-fil-?debut_autre=9' class='lien_pagination'><div style="float: right;"><img src="squelettes/images/precedent.gif"></div></a></div>
+                  </div>
+                  
+                  <div id="right">
+                   
+  <div id="popsonicsimg" style="text-align: left">
+    <div class="whitebox" style="width: 257px; font-size: 120%; margin-top: 0px; margin-bottom: 0px; padding:7px 0px 7px 14px;">                      la webradio cr&eacute;ation &eacute;ph&eacute;m&egrave;re                      
+      <div style="padding: 14px 0 0 28px">                      
+        <a href="-pop-sonics-">
+          <img src="squelettes/images/popsonicsradio.gif" alt="" /></a>                      
+      </div>                      
+    </div>                      
+    <div class="whitebox" style="width: 271px; font-size: 120%; margin-top: 0px; margin-bottom: 21px; padding:0px 0px 7px 0px;">                      
+      <marquee id="scrollradio2" scrollamount="2" direction="left" loop="true"> 
+                
+                <img src='local/cache-texte/88f7f0fbf6fc833c2d6eb155e5dfee0d.png' width='425' height='16' style='width:425px;height:16px;' class='format_png' alt='Popsonics Radio / 60 minutes avec Christian Marclay par Jean-Philippe Renoult' />
+                
+                </marquee>
+                      
+    </div>
+  </div>
+  
+                     
+
+<div id="poplab2">
+  <a href="-pop-lab-"><img src="squelettes/images/poplab.gif" alt="" /></a><br /> le mag en pdf, un espace-temps cr&eacute;ation
+</div>
+<div id="poplabuneimg" style="text-align: left">
+
+
+<a href="IMG/pdf_JeSuisLaReleveDeCharlie.pdf" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pdf','','local/cache-gd2/ba7761c5e4c8b7c9966ad729895a0307.png',1)">
+<img src="local/cache-gd2/e47eb60e7fececee5cc53724a513f294.png" name="pdf" id="pdf" class="format_png" alt="" /></a>
+
+
+</div>
+<div id="poplabunetxt">
+  &lt; 12'01'15 &gt;<br />
+  <a href="-pop-lab-" style="text-decoration: none;"></a><br />
+  <span class="description"><a href="-pop-lab-" style="text-decoration: none;"> « JeSuisLaRelèveDeCharlie », au format de « Charlie Hebdo », réalisé pour Charlie par des artistes, étudiants, illustrateurs, à l’appel de&nbsp;(...)</a>
+  </span>
+</div><br class="clearfloat" />
+
+
+                       <div id="lescinqplus">
+  <img src="squelettes/images/lesplus.gif" alt="" />
+</div>
+<div id="lescinqplustxt"><span class="tititre">
+  
+    <a href="Un-Reading-Club-pop-avec-Gregoire">Un Reading Club pop avec Grégoire Chamayou, Isabelle Sorente, Philippe Aigrain, Sophie Wahnich et Mathieu Triclot</a><br />
+    
+    <a href="Marsatac-sur-la-breche">Marsatac sur la brèche</a><br />
+    
+    <a href="On-vote-pour-TOUT-ART-CONTRE-LA">On vote pour TOUT ART CONTRE LA GUERRE</a><br />
+    
+    <a href="L-icone-Susan-Kare">L&#8217;icône Susan Kare</a><br />
+    
+    <a href="Papillote-s-eprend-dans-la-Toile">Papillote s&#8217;éprend dans la Toile</a><br />
+     </span>
+</div>
+                                          </div><br class="clearfloat" />
+                  <div id="menubas"><a href="-pop-fil-">&lt; pop'fil &gt;</a><a href="spip.php?page=pop-agenda">&lt; pop'agenda &gt;</a><a href="-pop-lab-">&lt; pop'lab &gt;</a><a href="-pop-sonics-">&lt; pop'sonics &gt;</a><a href="-pop-etc-">&lt; pop'etc &gt;</a><a href="-pop-qui-">&lt; pop'qui &gt;</a><a href="-credits-">&lt; cr&eacute;dits &gt;</a><a href="-plan-du-site-">&lt; plan du site &gt;</a><a href="-mentions-legales-">&lt; mentions l&eacute;gales &gt;</a></div>
+                </div></td>
+      </tr>
+    </table> <!-- SPIP-CRON --><div style="background-image: url('https://www.poptronics.fr/spip.php?action=cron');"></div>
+  </body>
+</html>

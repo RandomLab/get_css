@@ -1,0 +1,4 @@
+https://poptronics.fr/squelettes/css/spip.css
+https://poptronics.fr/squelettes/css/spiptronics.css
+https://poptronics.fr/favicon.ico
+https://poptronics.fr/spip.php?page=backend&id_rubrique=1

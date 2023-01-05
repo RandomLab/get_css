@@ -1,0 +1,270 @@
+/* Correction des styles html par défaut */
+body {
+	background: #FFF;
+	margin: 1.5em;
+	text-align: center;
+	font-size: 1em;
+	color: #000;
+}
+img, table {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	padding: 0;
+	font-size: 1em;
+	font-weight: normal;
+}
+h3.spip {
+	font-size: 125%;
+	margin: 7px 0 7px 0;
+}
+spip_logos {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+form {
+	padding: 0;
+	margin: 0;
+}
+p.spip {
+	margin-top: 0;
+	margin-bottom: 14px;
+}
+ul, ol, li {
+	margin: 0;
+	padding: 0;
+}
+ul {
+	list-style: none;
+}
+/* Java */
+#menu_parent {
+	z-index: 6;
+	position: absolute;
+	left: 206px;
+	top: 247px;
+	width: 202px;
+	height: 56px;
+	line-height: 0px;
+	margin: 0px;
+	padding: 0px;
+}
+#menu_child {
+	z-index: 7;
+	position: absolute;
+	left: 203px;
+	top: 247px;
+	width: 202px;
+	padding: 0px;
+	margin: 0px;
+	line-height: 0px;
+}
+#fixedtipdiv {
+	padding: 1px 4px 1px 4px;
+	width: 167px;
+	color: #000;
+	font-size: 90%;
+	text-align: left;
+}
+.wallpix {
+	background-image: url(../images/wallpix.gif);
+	background-repeat: repeat;
+	padding: 2px;
+	line-height: 0;
+  margin: 0;
+}
+.titrelongheader {
+	padding: 0px;
+	color: #000;
+	background-color: #fff;
+	font-size: 80%;
+	width: 151px;
+	text-align: left;
+}
+.titrelongbody {
+	padding: 0;
+	margin: 0;
+	line-height: 0;
+	background-color: #FFF;	
+}
+/* Poptronics basics */
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Times;
+	font-size: 100%;
+	color: #000000;
+}
+a {
+	color: #000;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+.date {
+	font-size: 110%;
+}
+.forml {
+	border: 1px #000 solid;
+	font-family: Times;
+	font-size: 90%;
+	margin: 2px 0 4px 0;
+	padding: 1px;
+}
+.formlrec {
+	width: 465px;
+	border: 1px #000 solid;
+	font-family: Times;
+	font-size: 90%;
+	margin: 0;
+	padding: 1px;
+}
+.formlcon {
+	width: 468px;
+	border: 1px #000 solid;
+	font-family: Times;
+	font-size: 90%;
+	margin: 0;
+	padding: 1px;
+}
+.searchforml {
+	border: 1px solid #000;
+	background-color: #000;
+	color: #FFF;
+	font-family: Times;
+	font-size: 95%;
+	margin: 2px 0 4px 0;
+	padding: 1px;
+	width: 227px;
+}
+#envois {
+	background-color: #FFF;
+	margin-top: 8px;
+	padding: 1px 14px 14px 14px;
+	text-align: left;
+}
+.description, .tititre {
+	font-size: 90%;
+}
+.clearfloat {
+	clear: both;
+	height: 0;
+	font-size: 1px;
+	line-height: 0px;
+}
+.lirelasuite, .lien {
+	color: #666;
+}
+#lien a.spip_out {
+	color: #666;
+}
+.spip_surligne {
+	background-color: #000;
+	color: #FFF;
+}
+#lienspromo {
+	width: 160px;
+	margin-top: 14px;
+	padding: 7px;
+	font-size: 90%;
+	background-color: #FFF;
+	text-align: left;
+}
+#googleads {
+	width: 160px;
+	margin-top: 7px;
+	padding: 7px;
+	text-align: left;
+	font-size: 90%;
+	background-color: #FFF;
+	font-family: Times;
+}
+#flashplayer {
+	padding: 0 0 7px 0;
+}
+.handcursor {
+	cursor: pointer;
+}
+.URLField {
+	width: 292px;
+	border: 1px #000 solid;
+	font-family: Times;
+	font-size: 80%;
+	margin: 0;
+	padding: 1px;
+}
+#identifiant {
+	position: absolute;
+	z-index: 999;
+	left: 147px;
+	top: 192px;
+	width: 475px;
+	height: 170px;
+	padding: 0;
+	margin: 0;
+}
+#trame {
+	position: absolute;
+	z-index: 1000;
+	left: 622px;
+	top: 192px;
+	width: 39px;
+	height: 342px;
+	padding: 0;
+	margin: 0;
+	padding-left: 14px;
+}
+#identifiant2 {
+	z-index: 999;
+	position: absolute;
+	left: 206px;
+	top: 170px;
+	width: 202px;
+	height: 74px;
+}
+#trame2 {
+	position: absolute;
+	z-index: 1000;
+	left: 402px;
+	top: 170px;
+	width: 253px;
+	height: 146px;
+	padding: 0;
+	margin: 0;
+	padding-left: 14px;
+}
+/* Pubs */
+#banner {
+	position: absolute;
+	z-index: 1001;
+	left: 275px;
+	top: 14px;
+	width: 742px;
+	height: 90px;
+	padding: 4px;
+	margin: 0;
+	text-align: right;
+	background-image: url(../images/pub.gd.jpg);
+	background-repeat: no-repeat;
+	background-color : #FFF;
+}
+#pave {
+	position: absolute;
+	z-index: 1002;
+	left: 717px;
+	top: 120px;
+	width: 300px; 
+	height: 250px;
+	padding: 18px 4px 4px 4px;
+	margin: 0;
+	text-align: right;	
+	background-image: url(../images/pub_pt.jpg);
+	background-repeat: no-repeat;
+	background-color : #FFF;
+}
+

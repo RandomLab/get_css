@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+
+<channel>
+	<title>poptronics</title>
+	<link>https://www.poptronics.fr/</link>
+	<description>le site des cultures hacktives</description>
+	<language>fr</language>
+	<generator>SPIP - www.spip.net</generator>
+
+	<image>
+		<title>poptronics</title>
+		<url>https://poptronics.fr/IMG/siteon0.gif</url>
+		<link>https://www.poptronics.fr/</link>
+		<height>38</height>
+		<width>144</width>
+	</image>
+
+
+
+
+	<item>
+		<title>L'ic&#244;ne Susan Kare</title>
+		<link>https://poptronics.fr/L-icone-Susan-Kare</link>
+		<guid isPermaLink="true">https://poptronics.fr/L-icone-Susan-Kare</guid>
+		<dc:date>2022-08-05T08:34:43Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>nicolas frespech</dc:creator>
+
+<category domain="https://poptronics.fr/-pop-art-">pop'art</category>
+
+
+		<description>&lt;strong class=&quot;spip&quot;&gt;Pour la premi&#232;re r&#233;trospective de la designeuse graphique Susan Kare, au Mus&#233;e de l'imprimerie et de la communication graphique &#224; Lyon, un sachet de Papillote truff&#233; d'ic&#244;nes, &#233;mojis et autres favicons.&lt;/strong&gt;
+
+-
+&lt;a href="https://poptronics.fr/-pop-art-" rel="directory"&gt;pop'art&lt;/a&gt;
+
+
+		</description>
+
+
+
+		
+		<enclosure url="https://poptronics.fr/IMG/jpg_P-ouv-4_bomb_on_red.jpg" length="18413" type="image/jpeg" />
+		
+
+	</item>
+
+
+
+	<item>
+		<title>Papillote s'&#233;prend dans la Toile</title>
+		<link>https://poptronics.fr/Papillote-s-eprend-dans-la-Toile</link>
+		<guid isPermaLink="true">https://poptronics.fr/Papillote-s-eprend-dans-la-Toile</guid>
+		<dc:date>2022-05-06T19:13:03Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>nicolas frespech</dc:creator>
+
+<category domain="https://poptronics.fr/-pop-net-">pop'net</category>
+
+
+		<description>&lt;strong class=&quot;spip&quot;&gt;Papillote tricote les liens entre les fils du r&#233;seau, le fil t&#233;nu du dialogue et l'art de broder pour bien faire, par Valentin Godard, invit&#233; par Nicolas Frespech, &#224; l'occasion d'un workshop aux beaux-arts de Lyon.&lt;/strong&gt;
+
+-
+&lt;a href="https://poptronics.fr/-pop-net-" rel="directory"&gt;pop'net&lt;/a&gt;
+
+
+		</description>
+
+
+
+		
+		<enclosure url="https://poptronics.fr/IMG/jpg_p-tissage-hist-ouv.jpg" length="96502" type="image/jpeg" />
+		
+
+	</item>
+
+
+
+	<item>
+		<title>On vote pour TOUT ART CONTRE LA GUERRE</title>
+		<link>https://poptronics.fr/On-vote-pour-TOUT-ART-CONTRE-LA</link>
+		<guid isPermaLink="true">https://poptronics.fr/On-vote-pour-TOUT-ART-CONTRE-LA</guid>
+		<dc:date>2022-04-10T08:27:03Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>annick rivoire</dc:creator>
+
+<category domain="https://poptronics.fr/-pop-design-">pop'design</category>
+
+
+		<description>&lt;p class=&quot;spip&quot;&gt;&lt;strong class=&quot;spip&quot;&gt;&#8220;TOUT ART CONTRE LA GUERRE&#8221;, cinquante artistes s'engagent contre la guerre en Ukraine, une publication de 52 pages, r&#233;alis&#233;e en urgence, tir&#233;e &#224; 8000 exemplaires, diffus&#233;e gratuitement en librairies &#224; Paris et Bordeaux.&lt;/p&gt; &lt;p class=&quot;spip&quot;&gt;Vingt images sont &lt;a href=&quot;https://www.bordeaux.fr/e202271/tout-art-contre-la-guerre&quot; class=&quot;spip_out&quot;&gt;expos&#233;es place Gambetta, &#224; Bordeaux&lt;/a&gt;, du 4 au 28 avril.&lt;/p&gt; &lt;p class=&quot;spip&quot;&gt;Un lancement sera organis&#233; au palais de Tokyo &#224; la fin du mois (la date exacte est en cours de d&#233;finition).&lt;/strong&gt;&lt;/p&gt;
+
+-
+&lt;a href="https://poptronics.fr/-pop-design-" rel="directory"&gt;pop'design&lt;/a&gt;
+
+
+		</description>
+
+
+
+		
+		<enclosure url="https://poptronics.fr/IMG/jpg_thomas.jpg" length="85767" type="image/jpeg" />
+		
+
+	</item>
+
+
+
+	<item>
+		<title>A contrejeu, Papillote d&#233;colonise l'imaginaire</title>
+		<link>https://poptronics.fr/A-contrejeu-Papillote-decolonise-l</link>
+		<guid isPermaLink="true">https://poptronics.fr/A-contrejeu-Papillote-decolonise-l</guid>
+		<dc:date>2022-04-08T08:34:45Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>isabelle arvers</dc:creator>
+
+<category domain="https://poptronics.fr/-pop-net-">pop'net</category>
+
+
+		<description>&lt;strong class=&quot;spip&quot;&gt;Une Papillote sign&#233;e de la curatrice &#232;s game art Isabelle Arvers, truff&#233;e de liens pour exp&#233;rimenter la face post-coloniale, queer, anar et f&#233;ministe du jeu vid&#233;o.&lt;/strong&gt;
+
+-
+&lt;a href="https://poptronics.fr/-pop-net-" rel="directory"&gt;pop'net&lt;/a&gt;
+
+
+		</description>
+
+
+
+		
+		<enclosure url="https://poptronics.fr/IMG/jpg_p-Ouv-empalado.jpg" length="25781" type="image/jpeg" />
+		
+
+	</item>
+
+
+
+	<item>
+		<title>Papillote sans fronti&#232;res</title>
+		<link>https://poptronics.fr/Papillote-sans-frontieres</link>
+		<guid isPermaLink="true">https://poptronics.fr/Papillote-sans-frontieres</guid>
+		<dc:date>2022-03-19T10:43:54Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>nicolas frespech</dc:creator>
+
+<category domain="https://poptronics.fr/-pop-net-">pop'net</category>
+
+
+		<description>&lt;strong class=&quot;spip&quot;&gt;A temps sinistres, Papillote sombre. La tinyletter de Nicolas Frespech est cosign&#233;e pour se tenir chaud et faire face&#8230; Les fronti&#232;res, &#231;a vous parle ? Des liens anciens, des liens nouveaux, du cauchemar virtuel ou bien r&#233;el, au choix, le tout avec un zeste d'art.&lt;/strong&gt;
+
+-
+&lt;a href="https://poptronics.fr/-pop-net-" rel="directory"&gt;pop'net&lt;/a&gt;
+
+
+		</description>
+
+
+
+		
+		<enclosure url="https://poptronics.fr/IMG/jpg_P-kik.jpg" length="31459" type="image/jpeg" />
+		
+
+	</item>
+
+
+
+	<item>
+		<title>&#199;a sent le sapin, tous au chalet !</title>
+		<link>https://poptronics.fr/Ca-sent-le-sapin-tous-au-chalet</link>
+		<guid isPermaLink="true">https://poptronics.fr/Ca-sent-le-sapin-tous-au-chalet</guid>
+		<dc:date>2021-12-30T09:32:29Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>nicolas frespech</dc:creator>
+
+<category domain="https://poptronics.fr/-pop-net-">pop'net</category>
+
+
+		<description>&lt;strong class=&quot;spip&quot;&gt;Une Papillote de saison, pour trouver un vrai refuge dans les faux chalets des m&#233;tavers, des liens r&#233;unis par C&#233;lia Bonnet-Ligeon.&lt;/strong&gt;
+
+-
+&lt;a href="https://poptronics.fr/-pop-net-" rel="directory"&gt;pop'net&lt;/a&gt;
+
+
+		</description>
+
+
+
+		
+		<enclosure url="https://poptronics.fr/IMG/jpg_sapin-2.jpg" length="87169" type="image/jpeg" />
+		
+
+	</item>
+
+
+
+	<item>
+		<title>Jouons un peu &#224; d&#233;jouer le genre dans le jeu vid&#233;o</title>
+		<link>https://poptronics.fr/Jouons-un-peu-a-dejouer-le-genre</link>
+		<guid isPermaLink="true">https://poptronics.fr/Jouons-un-peu-a-dejouer-le-genre</guid>
+		<dc:date>2021-11-12T08:52:06Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		
+
+<category domain="https://poptronics.fr/-pop-net-">pop'net</category>
+
+
+		<description>&lt;strong class=&quot;spip&quot;&gt;Une Papillote o&#249; l'artiste Nicolas Frespech invite Agn&#232;s de Cayeux et Coralie Debord, qui proposent une extension de leur performance conf&#233;rence &#224; l'&#233;cole des beaux-arts de Lyon autour des repr&#233;sentations de genre dans les jeux vid&#233;o. Gaffe, le &lt;i class=&quot;spip&quot;&gt;male gaze&lt;/i&gt; en prend un coup.&lt;/strong&gt;
+
+-
+&lt;a href="https://poptronics.fr/-pop-net-" rel="directory"&gt;pop'net&lt;/a&gt;
+
+
+		</description>
+
+
+
+		
+		<enclosure url="https://poptronics.fr/IMG/jpg_p-dys4ia_06.jpg" length="36736" type="image/jpeg" />
+		
+
+	</item>
+
+
+
+	<item>
+		<title>Il est plus que temps d'&#171; Exploser le plafond &#187;</title>
+		<link>https://poptronics.fr/Il-est-plus-que-temps-d-Exploser</link>
+		<guid isPermaLink="true">https://poptronics.fr/Il-est-plus-que-temps-d-Exploser</guid>
+		<dc:date>2021-10-29T11:30:28Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>annick rivoire</dc:creator>
+
+<category domain="https://poptronics.fr/-pop-art-">pop'art</category>
+
+
+		<description>&lt;strong class=&quot;spip&quot;&gt;&lt;a href=&quot;https://www.ruedelechiquier.net/les-incisives/360-exploser-le-plafond-.html&quot; class=&quot;spip_out&quot;&gt;&#171; Exploser le plafond, Pr&#233;cis de f&#233;minisme &#224; l'usage du monde de la culture &#187;&lt;/a&gt;, Reine Prat, octobre 2021, collection Les Incisives, essai, Rue de l'&#233;chiquier, 112p, 12&#8364;.&lt;/strong&gt;
+
+-
+&lt;a href="https://poptronics.fr/-pop-art-" rel="directory"&gt;pop'art&lt;/a&gt;
+
+
+		</description>
+
+
+
+		
+		<enclosure url="https://poptronics.fr/IMG/jpg_metootheatre.jpg" length="66103" type="image/jpeg" />
+		
+
+	</item>
+
+
+
+	<item>
+		<title>En voiture, Papillote !</title>
+		<link>https://poptronics.fr/En-voiture-Papillote,2635</link>
+		<guid isPermaLink="true">https://poptronics.fr/En-voiture-Papillote,2635</guid>
+		<dc:date>2021-10-24T19:11:53Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>nicolas frespech</dc:creator>
+
+<category domain="https://poptronics.fr/-pop-art-">pop'art</category>
+
+
+		<description>&lt;strong class=&quot;spip&quot;&gt;Les Papillotes sont de retour, et elles se d&#233;gustent sans transition, sans distinction, sans qualification, et sans mod&#233;ration. Exc&#232;s de vitesse autoris&#233; sur les autoroutes de l'information avec l'artiste Nicolas Frespech !&lt;/strong&gt;
+
+-
+&lt;a href="https://poptronics.fr/-pop-art-" rel="directory"&gt;pop'art&lt;/a&gt;
+
+
+		</description>
+
+
+
+		
+		<enclosure url="https://poptronics.fr/IMG/jpg_p-arcangel.jpg" length="20310" type="image/jpeg" />
+		
+
+	</item>
+
+
+
+	<item>
+		<title>Hommage &#224; Melvin Van Peebles, l'interview sur ses milles et une vies en r&#233;&#233;coute</title>
+		<link>https://poptronics.fr/Hommage-a-Melvin-Van-Peebles-l</link>
+		<guid isPermaLink="true">https://poptronics.fr/Hommage-a-Melvin-Van-Peebles-l</guid>
+		<dc:date>2021-09-24T09:34:56Z</dc:date>
+		<dc:format>text/html</dc:format>
+		<dc:language>fr</dc:language>
+		<dc:creator>jean-philippe renoult</dc:creator>
+
+<category domain="https://poptronics.fr/-pop-art-">pop'art</category>
+
+
+		<description>Il &#233;tait le p&#232;re de la Blaxploitation, figure underground et immense bonhomme. Melvin Van Peebles, premier noir dont le film ind&#233; &#171; Sweet Sweatback's Badasssss Song &#187;, en 1971, a &#233;t&#233; class&#233; X &#171; par un jury 100% blanc &#187;, a eu de multiples vies. Acteur, sc&#233;nariste, r&#233;alisateur, compositeur, on l'avait rencontr&#233; &#224; Paris en 2009, alors qu'il venait pr&#233;senter son dernier film, &#171; Confession of a Ex-Doofus-Itchy-Footed Mutha &#187;, &#224; l'invitation du festival cin&#233;ma de Saint-Denis intitul&#233; cette ann&#233;e-l&#224; Black Revolution. (...)
+
+-
+&lt;a href="https://poptronics.fr/-pop-art-" rel="directory"&gt;pop'art&lt;/a&gt;
+
+
+		</description>
+
+
+
+		
+		<enclosure url="https://poptronics.fr/IMG/jpg_jpg_vanpeebles.jpg" length="117464" type="image/jpeg" />
+		
+
+	</item>
+
+
+
+
+
+</channel>
+
+</rss>
